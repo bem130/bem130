@@ -1,3 +1,3 @@
-# Haruki1234 - top
+# Haruki1234
 
-[*Twitter**](https://twitter.com/haruki_1234_)
+[*Sitelink*](https://haruki1234.github.io)
