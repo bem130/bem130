@@ -1,6 +1,10 @@
 # Haruki1234 
 ### [*Sitelink*](https://haruki1234.github.io) 
 
+# topic
+メインPCのCPUをオーバークロックしたらぶっ壊れました
+奇跡的に直りましたがオーバークロックはしないほうがいいです
+
 ## Projects 
 
 | Project | Description | ProjectLink | SiteLink |
