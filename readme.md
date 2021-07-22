@@ -5,6 +5,9 @@
 メインPCのCPUをオーバークロックしたらぶっ壊れました
 奇跡的に直りましたがオーバークロックはしないほうがいいです
 
+I overclocked the CPU of my main PC but it broke
+It has been miraculously fixed, but it is recommended not to overclock
+
 ## Projects 
 
 | Project | Description | ProjectLink | SiteLink |
