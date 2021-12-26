@@ -17,5 +17,5 @@ It has been miraculously fixed, but it is recommended not to overclock.
 | Window View | 自分のサイトをPCっぽく表示することを目指したプロジェクト | [Go!](https://github.com/haruki1234/window) | [Go!](https://haruki1234.github.io/window/) |
 
 
-
+  
   (japanese,english)
