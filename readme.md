@@ -18,4 +18,4 @@ It has been miraculously fixed, but it is recommended not to overclock.
 
 
   
-  (japanese,english)
+  (lang:japanese,english)
