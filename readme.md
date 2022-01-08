@@ -16,6 +16,8 @@ It has been miraculously fixed, but it is recommended not to overclock.
 | Site | 適当に作ってるサイト | [Go!](https://github.com/haruki1234/mainsite) | [Go!](https://haruki1234.github.io/mainsite/) |
 | Window View | 自分のサイトをPCっぽく表示することを目指したプロジェクト | [Go!](https://github.com/haruki1234/window) | [Go!](https://haruki1234.github.io/window/) |
 
+# datas
 
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki1234&layout=compact)
   
   (lang:japanese,english)
