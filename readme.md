@@ -1,6 +1,6 @@
 # Haruk1234 
 ### [*Sitelink*](https://haruk1234.github.io) 
-### [*Twitter: haruki_1234_*](https://twitter.com/haruk_1234) 
+### [*Twitter: haruk_1234*](https://twitter.com/haruk_1234) 
 
 # topic
 メインPCのCPUをオーバークロックしたらぶっ壊れました。
