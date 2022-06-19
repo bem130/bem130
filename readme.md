@@ -1,6 +1,6 @@
 # Haruk1234 
-### [*Sitelink*](https://haruk1234.github.io) 
-### [*Twitter: haruk_1234*](https://twitter.com/haruk_1234) 
+### [*Sitelink*](https://haruk130.github.io) 
+### [*Twitter: haruk130*](https://twitter.com/haruk130) 
 
 # topic
 メインPCのCPUをオーバークロックしたらぶっ壊れました。
@@ -13,11 +13,11 @@ It has been miraculously fixed, but it is recommended not to overclock.
 
 | Project | Description | ProjectLink | SiteLink |
 | -- | -- | -- | -- |
-| Typing | タイピングソフト | [Go!](https://github.com/haruk1234/typing) | ---- |
-| 3D draw | 3D描画を自作したい話 | [Go!](https://github.com/haruk1234/web3d) | [Go!](https://haruk1234.github.io/web3d/) |
-| Neknaj | プロジェクトの塊 | [Go!](https://github.com/haruk1234/neknaj) | [Go!](https://haruk1234.github.io/neknaj/) |
-| Site | 適当に作ってるサイト | [Go!](https://github.com/haruk1234/mainsite) | [Go!](https://haruk1234.github.io/mainsite/) |
-| Window View | 自分のサイトをPCっぽく表示することを目指したプロジェクト | [Go!](https://github.com/haruk1234/window) | [Go!](https://haruk1234.github.io/window/) |
+| Typing | タイピングソフト | [Go!](https://github.com/haruk130/typing) | ---- |
+| 3D draw | 3D描画を自作したい話 | [Go!](https://github.com/haruk130/web3d) | [Go!](https://haruk130.github.io/web3d/) |
+| Neknaj | プロジェクトの塊 | [Go!](https://github.com/haruk130/neknaj) | [Go!](https://haruk130.github.io/neknaj/) |
+| Site | 適当に作ってるサイト | [Go!](https://github.com/haruk130/mainsite) | [Go!](https://haruk130.github.io/mainsite/) |
+| Window View | 自分のサイトをPCっぽく表示することを目指したプロジェクト | [Go!](https://github.com/haruk130/window) | [Go!](https://haruk130.github.io/window/) |
 
 # datas
 
