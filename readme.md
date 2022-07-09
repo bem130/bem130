@@ -1,4 +1,4 @@
-# Haruk1234 
+# Haruk130
 ### [*Sitelink*](https://haruk130.github.io) 
 ### [*Twitter: haruk130*](https://twitter.com/haruk130) 
 
@@ -21,7 +21,7 @@ It has been miraculously fixed, but it is recommended not to overclock.
 
 # datas
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=haruk1234&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=haruk130&layout=compact)
 
 # others
 I may made mistakes about text, sorry.  
