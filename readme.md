@@ -1,6 +1,6 @@
 # Bem130
 ### [*Sitelink*](https://bem130.github.io) 
-### [*Twitter: haruk130*](https://twitter.com/bem130) 
+### [*Twitter: bem130*](https://twitter.com/bem130) 
 
 # topic
 メインPCのCPUをオーバークロックしたらぶっ壊れました。
