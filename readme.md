@@ -14,10 +14,10 @@ It has been miraculously fixed, but it is recommended not to overclock.
 | Project | Description | ProjectLink | SiteLink |
 | -- | -- | -- | -- |
 | Typing | タイピングソフト | [Go!](https://github.com/bem130/typing) | ---- |
-| 3D draw | 3D描画を自作したい話 | [Go!](https://github.com/bem130/web3d) | [Go!](https://bem130.github.io/web3d/) |
-| Neknaj | プロジェクトの塊 | [Go!](https://github.com/bem130/neknaj) | [Go!](https://bem130.github.io/neknaj/) |
+| Markup | マークアップ言語作ってみた | [Go!](https://github.com/bem130/markup) | [Go!](https://bem130.github.io/markup/editor) |
+| 3D draw | 3D描画を自作したい | [Go!](https://github.com/bem130/web3d) | [Go!](https://bem130.github.io/web3d/) |
+| Seat Change | 席替えソフト欲しいよね | [Go!](https://github.com/bem130/seat-change) | [Go!](https://bem130.github.io/seat-change) |
 | Site | 適当に作ってるサイト | [Go!](https://github.com/bem130/mainsite) | [Go!](https://bem130.github.io/mainsite/) |
-| Window View | 自分のサイトをPCっぽく表示することを目指したプロジェクト | [Go!](https://github.com/bem130/window) | [Go!](https://bem130.github.io/window/) |
 
 # datas
 
