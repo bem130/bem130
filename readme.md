@@ -2,12 +2,12 @@
 ### [*Sitelink*](https://bem130.github.io) 
 ### [*Twitter: bem130*](https://twitter.com/bem130) 
 
-# topic
-メインPCのCPUをオーバークロックしたらぶっ壊れました。
-奇跡的に直りましたがオーバークロックはしないほうがいいです。
+# aboutme
+PCでいろいろ作ってる人です  
+現在は主にウェブブラウザで動くアプリを作っています  
 
-I overclocked the CPU of my main PC but it broke.
-It has been miraculously fixed, but it is recommended not to overclock.
+# topic
+学校のテストの前ってPCでの遊びが捗るよね
 
 ## Projects 
 
