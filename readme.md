@@ -1,4 +1,6 @@
 # Bem130
+![image](https://user-images.githubusercontent.com/79097169/201515771-73b6f301-5b63-4817-9b6d-1a3a02a0e94d.png)
+
 ### [*Sitelink*](https://bem130.github.io) 
 ### [*Twitter: bem130*](https://twitter.com/bem130) 
 
@@ -11,11 +13,19 @@ PCでいろいろ作ってる人です
 
 ## Projects 
 
+### Neknaj
+
 | Project | Description | ProjectLink | SiteLink |
 | -- | -- | -- | -- |
 | Typing | タイピングソフト | [Go!](https://github.com/bem130/typing) | ---- |
 | Markup | マークアップ言語作ってみた | [Go!](https://github.com/bem130/markup) | [Go!](https://bem130.github.io/markup/editor) |
-| 3D draw | 3D描画を自作したい | [Go!](https://github.com/bem130/web3d) | [Go!](https://bem130.github.io/web3d/) |
+| 3D Lib | 3D描画を自作したい | [Go!](https://github.com/neknaj/3d) | - |
+| 3D Maze | 3Dゲーム作りたいからとりあえず迷路 | [Go!](https://github.com/bem130/maze) | [Go!](https://bem130.github.io/maze/3d) |
+
+## Others
+
+| Project | Description | ProjectLink | SiteLink |
+| -- | -- | -- | -- |
 | Seat Change | 席替えソフト欲しいよね | [Go!](https://github.com/bem130/seat-change) | [Go!](https://bem130.github.io/seat-change) |
 | Site | 適当に作ってるサイト | [Go!](https://github.com/bem130/mainsite) | [Go!](https://bem130.github.io/mainsite/) |
 
