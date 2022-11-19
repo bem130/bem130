@@ -20,7 +20,7 @@ PCでいろいろ作ってる人です
 | Typing | タイピングソフト | [Go!](https://github.com/bem130/typing) | ---- |
 | Markup | マークアップ言語作ってみた | [Go!](https://github.com/bem130/markup) | [Go!](https://bem130.github.io/markup/editor) |
 | 3D Lib | 3D描画を自作したい | [Go!](https://github.com/neknaj/3d) | - |
-| 3D Maze | 3Dゲーム作りたいからとりあえず迷路 | [Go!](https://github.com/bem130/maze) | [Go!](https://bem130.github.io/maze/3d) |
+| 3D Maze | 3Dゲーム作りたいからとりあえず迷路 | [Go!](https://github.com/bneknaj/maze) | [Go!](https://neknaj.github.io/maze/3d) |
 
 ## Others
 
