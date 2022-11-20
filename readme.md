@@ -31,9 +31,9 @@ PCでいろいろ作ってる人です
 
 # datas
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bem130)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?count_private=true&username=bem130)  
 ![](https://github-readme-stats.vercel.app/api?username=bem130&count_private=true&show_icons=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bem130&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=bem130&layout=compact)  
 
 # others
 I may made mistakes about text, sorry.  
