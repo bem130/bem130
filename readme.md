@@ -9,7 +9,8 @@ PCでいろいろ作ってる人です
 現在は主にウェブブラウザで動くアプリを作っています  
 
 # topic
-学校のテストの前ってPCでの遊びが捗るよね
+学校のテストの前ってPCでの遊びが捗るよね  
+課題終わらんオワタ  
 
 ## Projects 
 
@@ -21,6 +22,7 @@ PCでいろいろ作ってる人です
 | Markup | マークアップ言語作ってみた | [Go!](https://github.com/bem130/markup) | [Go!](https://bem130.github.io/markup/editor) |
 | 3D Lib | 3D描画を自作したい | [Go!](https://github.com/neknaj/3d) | - |
 | 3D Maze | 3Dゲーム作りたいからとりあえず迷路 | [Go!](https://github.com/neknaj/maze) | [Go!](https://neknaj.github.io/maze/3d) |
+| MyLang | 言語作ろう | [Go!](https://github.com/bem130/mylang) | ---- |
 
 ## Others
 
