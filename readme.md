@@ -1,7 +1,7 @@
 # Bem130
 ![image](https://user-images.githubusercontent.com/79097169/201515771-73b6f301-5b63-4817-9b6d-1a3a02a0e94d.png)
 
-### [*Sitelink*](https://bem130.github.io) 
+### [*Sitelink*](https://bem130.com) 
 ### [*Twitter: bem130*](https://twitter.com/bem130) 
 
 # aboutme
@@ -29,7 +29,6 @@ PCでいろいろ作ってる人です
 | Project | Description | ProjectLink | SiteLink |
 | -- | -- | -- | -- |
 | Seat Change | 席替えソフト欲しいよね | [Go!](https://github.com/bem130/seat-change) | [Go!](https://bem130.github.io/seat-change) |
-| Site | 適当に作ってるサイト | [Go!](https://github.com/bem130/mainsite) | [Go!](https://bem130.github.io/mainsite/) |
 
 # datas
 
