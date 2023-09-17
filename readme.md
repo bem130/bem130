@@ -1,9 +1,10 @@
 # Bem130
 ![image](https://user-images.githubusercontent.com/79097169/201515771-73b6f301-5b63-4817-9b6d-1a3a02a0e94d.png)
 
-### [*E-Mail*](mailto://bem130@ymail.ne.jp) 
-### [*Sitelink*](https://bem130.com) 
-### [*X: bem130*](https://twitter.com/bem130) 
+![](https://img.shields.io/twitter/follow/bem130)
+![](https://img.shields.io/youtube/channel/subscribers/UCamauzErkPzhx7Q3NY_FrUQ)  
+[*E-Mail: bem130@ymail.ne.jp*](mailto://bem130@ymail.ne.jp)  
+[*Web-Site: https://bem130.com*](https://bem130.com)  
 
 # aboutme
 PCでいろいろ作ってる人です  
