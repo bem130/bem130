@@ -16,9 +16,11 @@ PCでいろいろ作ってる人です
 
 # data
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?count_private=true&username=bem130)  
-![](https://github-readme-stats.vercel.app/api?username=bem130&count_private=true&show_icons=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=bem130&layout=compact)  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?count_private=true&username=bem130&theme=algolia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bem130&theme=algolia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bem130&theme=algolia&utcOffset=9">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bem130&theme=algolia">
 
 # others
 I may made mistakes about text, sorry.  
