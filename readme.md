@@ -78,4 +78,4 @@ Feel free to reach out or explore my work through the following channels:
 Thank you for visiting my profile! I'm always open to interesting discussions, collaboration opportunities, or any questions.
 
 **日本語:**  
-私のプロフィールをご覧いただき、ありがとうございます！いつでもディスカッション、コラボレーション、またはご質問をお待ちしております。😊
+私のプロフィールをご覧いただき、ありがとうございます！いつでもディスカッション、コラボレーション、またはご質問をお待ちしております。
