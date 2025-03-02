@@ -6,10 +6,10 @@
 ## Introduction / はじめに
 
 **English:**  
-Hello! I'm **Bem130**, a self-taught developer from Japan with a passion for creating software. I started programming in 2022 and have since focused on building applications that run in web browsers. My areas of expertise include front-end web development (JavaScript/TypeScript), system programming in Rust, and even hardware/IoT projects. I enjoy working on open-source projects ranging from digital circuit simulators to custom programming languages and physical computing devices, constantly exploring new technologies and tools.
+Hello! I'm **Bem130**, a self-taught developer from Japan with a passion for creating software. I started programming in 2020 winter and have since focused on building applications that run in web browsers. My areas of expertise include front-end web development (JavaScript/TypeScript), system programming in Rust, and even hardware/IoT projects. I enjoy working on open-source projects ranging from digital circuit simulators to custom programming languages and physical computing devices, constantly exploring new technologies and tools.
 
 **日本語:**  
-こんにちは！私は **Bem130** です。日本から独学でプログラミングを学び、ソフトウェア開発に情熱を注いでいます。2022年からプログラミングを始め、ウェブブラウザ上で動作するアプリケーションの開発に注力しています。私の専門分野は、フロントエンドのウェブ開発（JavaScript/TypeScript）、Rustを用いたシステムプログラミング、さらにはハードウェア/IoTプロジェクトです。デジタル回路シミュレーターからカスタムプログラミング言語、物理コンピューティングデバイスに至るまで、さまざまなオープンソースプロジェクトに取り組み、新しい技術やツールを常に探求しています。
+こんにちは！私は **Bem130** です。日本から独学でプログラミングを学び、ソフトウェア開発に情熱を注いでいます。2020年冬からプログラミングを始め、ウェブブラウザ上で動作するアプリケーションの開発に注力しています。私の専門分野は、フロントエンドのウェブ開発（JavaScript/TypeScript）、Rustを用いたシステムプログラミング、さらにはハードウェア/IoTプロジェクトです。デジタル回路シミュレーターからカスタムプログラミング言語、物理コンピューティングデバイスに至るまで、さまざまなオープンソースプロジェクトに取り組み、新しい技術やツールを常に探求しています。
 
 ## Notable Projects / 主なプロジェクト
 
