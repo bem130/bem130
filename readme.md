@@ -68,7 +68,7 @@ Feel free to reach out or explore my work through the following channels:
   **日本語:** 個人のホームページおよびブログ（主に日本語）
 - **GitHub:** [bem130](https://github.com/bem130) (personal account) and [neknaj](https://github.com/neknaj) (organization for joint projects)  
   **日本語:** 個人アカウントおよび共同プロジェクト用の組織アカウント
-- **Twitter (X):** [@bem130](https://twitter.com/bem130) – For updates, tech insights, and project news  
+- **𝕏:** [@bem130](https://twitter.com/bem130) – For updates, tech insights, and project news  
   **日本語:** 最新情報、技術的考察、プロジェクトのニュースを発信中
 - **Instagram:** [bem_130](https://instagram.com/bem_130) – Project photos and behind-the-scenes content  
   **日本語:** プロジェクトの写真や舞台裏の様子を掲載
