@@ -1,81 +1,120 @@
-# Bem130
+# <ruby>蓓眸<rt>べむ</rt></ruby> (Bem130)
 
-![](https://img.shields.io/twitter/follow/bem130)
-![](https://img.shields.io/youtube/channel/subscribers/UCamauzErkPzhx7Q3NY_FrUQ)  
+作りたくなったものを衝動的に作る人です。
 
-## Introduction / はじめに
+自作プログラミング言語、処理系、マークアップ言語、論理回路のDSL、ブラウザで動くツール、タイピング・暗記ソフト、学習可視化ツール、3Dまわりの実験、入力デバイスなどを作っています。
 
-**English:**  
-Hello! I'm **Bem130**, a self-taught developer from Japan with a passion for creating software. I started programming in 2020 winter and have since focused on building applications that run in web browsers. My areas of expertise include front-end web development (JavaScript/TypeScript), system programming in Rust, and even hardware/IoT projects. I enjoy working on open-source projects ranging from digital circuit simulators to custom programming languages and physical computing devices, constantly exploring new technologies and tools.
+個人寄りの制作物は [bem130](https://github.com/bem130) に、少し大きめの実験的なプロジェクト群は [Neknaj](https://github.com/neknaj) に置いています。  
+[Neknaj](https://neknaj.com) は、私とその仲間たちのプロジェクト群の名前です。
 
-**日本語:**  
-こんにちは！私は **Bem130** です。日本から独学でプログラミングを学び、ソフトウェア開発に情熱を注いでいます。2020年冬からプログラミングを始め、ウェブブラウザ上で動作するアプリケーションの開発に注力しています。私の専門分野は、フロントエンドのウェブ開発（JavaScript/TypeScript）、Rustを用いたシステムプログラミング、さらにはハードウェア/IoTプロジェクトです。デジタル回路シミュレーターからカスタムプログラミング言語、物理コンピューティングデバイスに至るまで、さまざまなオープンソースプロジェクトに取り組み、新しい技術やツールを常に探求しています。
+## 主なプロジェクト
 
-## Notable Projects / 主なプロジェクト
+### [NEPLg2](https://github.com/neknaj/NEPLg2)
+前置記法・式指向・オフサイドルールを中核にした自作言語です。  
+WebAssembly / WASI を主要ターゲットにしていて、Playground とチュートリアルも整備しています。
 
-- **Neknaj Circuit Game (CircuitGame)**  
-  **English:** A web-based digital logic circuit simulator built with Rust and TypeScript. CircuitGame provides a domain-specific language (DSL) for designing and testing digital circuits, allowing users to define modules, logic gates, and test cases for their circuits. It includes both a CLI tool and a browser-based interface, complete with a web playground for interactive use.  
-  **日本語:** RustとTypeScriptで開発されたウェブベースのデジタル論理回路シミュレーターです。CircuitGameは、デジタル回路の設計や検証のためのドメイン固有言語（DSL）を提供し、ユーザーがモジュール、論理ゲート、テストケースを定義できるようにしています。CLIツールとブラウザベースのインターフェースの両方があり、インタラクティブなウェブプレイグラウンドも備えています.  
-  (リポジトリ: [neknaj/circuitgame](https://github.com/neknaj/circuitgame))
+- Playground: https://neknaj.github.io/NEPLg2/
+- Tutorial: https://neknaj.github.io/NEPLg2/tutorials/getting_started/00_index.html
 
-- **B-debt & NLPS (Programming Language & VM)**  
-  **English:** A custom programming language project developed and refined over time, nicknamed **B-debt**. This evolved into the Neknaj Language Processing System (NLPS) – a stack-machine-based programming language and its runtime system, including a custom virtual machine and assembly language, demonstrating my interest in compiler design and low-level systems.  
-  **日本語:** 長年にわたり開発・洗練されたカスタムプログラミング言語プロジェクトで、ニックネームは **B-debt** です。これが発展して、スタックマシンベースのプログラミング言語とそのランタイムシステムである **Neknaj Language Processing System (NLPS)** となりました。NLPSにはカスタムの仮想マシンとアセンブリ言語が含まれており、コンパイラ設計や低レベルシステムへの関心を示しています.  
-  (リポジトリ: [neknaj/bdebt](https://github.com/neknaj/bdebt), [neknaj/nlps](https://github.com/neknaj/nlps))
+### [prefix-lang-compiler-book](https://github.com/bem130/prefix-lang-compiler-book)
+前置記法の小さな言語を題材に、TypeScript で言語を作りながら学ぶための本です。  
+Compiler / Runtime / CLI / Web エディタまで、自分で組み立てながら理解することを目標にしています。
 
-- **Morse BLE Keyboard**  
-  **English:** An IoT hardware project that implements a Bluetooth keyboard using Morse code for text input. It utilizes an ESP32 microcontroller and two switches to register dot and dash inputs, transmitting keystrokes via BLE to a computer. This project demonstrates my proficiency in embedded C++ and electronics, integrating the ESP32 BLE Keyboard library for wireless communication.  
-  **日本語:** モールス信号を用いてテキスト入力を実現するBluetoothキーボードのIoTハードウェアプロジェクトです。ESP32マイクロコントローラと2つのスイッチを使用して「点」と「線」の入力を認識し、BLE経由でコンピュータにキー入力を送信します。このプロジェクトは、組み込みC++および電子工作のスキルを示し、ESP32 BLE Keyboardライブラリを統合して無線通信を実現しています.  
-  (リポジトリ: [bem130/MorseBLEkeyboard](https://github.com/bem130/MorseBLEkeyboard))
+### [Neknaj Circuit Game](https://github.com/neknaj/circuitgame)
+論理回路をテキストで設計・検証するための DSL と処理系です。  
+CLI と Web の両方で扱えるように作っていて、論理回路・記法設計・実装の交点にあるプロジェクトです。
 
-- **JSON Viewer**  
-  **English:** A lightweight web library that formats and displays JSON data in a clean and readable manner using HTML, CSS, and JavaScript. JSON Viewer can be embedded into web pages to visualize JSON objects with proper indentation and coloring, aiding in debugging and presenting API data. This project highlights my front-end development skills and focus on creating user-friendly web tools.  
-  **日本語:** HTML、CSS、JavaScriptを使用してJSONデータを整形し、見やすく表示する軽量なウェブライブラリです。JSON Viewerはウェブページに埋め込むことで、適切なインデントや色分けを用いてJSONオブジェクトを視覚化し、デバッグやAPIデータの提示に役立ちます。このプロジェクトは、フロントエンド開発のスキルと、ユーザーフレンドリーなウェブツールの作成に対する注力を示しています.  
-  (リポジトリ: [neknaj/jsonviewer](https://github.com/neknaj/jsonviewer))
+- Web: https://neknaj.com/circuitgame/README
+- Playground: https://neknaj.github.io/circuitgame/web/index.html
+- Tutorial: https://neknaj.github.io/circuitgame/tutorials/index.html
 
-<!-- 追加のプロジェクトを必要に応じてここにコメントアウトして追加できます -->
+### [NDDS / NML](https://github.com/neknaj/ndds)
+自作マークアップ言語 NML と、それをブラウザで表示するための仕組みです。  
+インデントベースの記法、JavaScript 関数呼び出しによる部品化、プレイグラウンド、VSCode まわりまで含めて作っています。  
+自分のサイトのかなりの部分もこれで書いています。
 
-## GitHub Stats / GitHub 統計
+- Web: https://neknaj.com/ndds/README
+- Playground: https://neknaj.github.io/ndds/playground.html
 
-**English:**  
-To provide a quick overview of my GitHub activity and skills, here are some automatically generated statistics:
+## 作っているものの系統
 
-**日本語:**  
-GitHubでの活動やスキルを一目で確認できるよう、以下に自動生成された統計情報を掲載しています:
+### 1. 言語と処理系
+- [NEPLg2](https://github.com/neknaj/NEPLg2)
+- NEPLg1
+- NLPS
+- njplang
+- [prefix-lang-compiler-book](https://github.com/bem130/prefix-lang-compiler-book)
 
-![Bem130's GitHub stats](https://github-readme-stats.vercel.app/api?username=bem130&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bem130&layout=compact&theme=transparent)
+自作言語を作ることと、その周辺の処理系・記法・実行環境を設計することを継続してやっています。
 
-## Contributions & Community / 貢献とコミュニティ
+### 2. 文書記法とブラウザ上の表現
+- [NDDS](https://github.com/neknaj/ndds)
+- markup
+- custommd
 
-**English:**  
-I am an active open-source contributor and welcome collaboration on my projects. I founded the **Neknaj** organization on GitHub, a space where I work with friends on collaborative and advanced projects under the Neknaj name. All my projects are open source, and contributions are welcome. I appreciate feedback, bug reports, and pull requests from the community.  
-Additionally, the name **"Neknaj"** holds personal significance, as it originates from my very first programming project—a simple rock-paper-scissors game—and is literally "Janken" (the Japanese word for rock-paper-scissors) spelled backwards. This spirit of fun and experimentation continues to inspire my work.
+文書をどう書くか、どうレンダリングするか、どう部品化するかに強い関心があります。  
+マークアップ言語そのものや、ブラウザでの表示系を作っています。
 
-**日本語:**  
-私は活発なオープンソース貢献者であり、プロジェクトへのコラボレーションを歓迎しています。GitHub上で **Neknaj** 組織を設立し、友人たちと共にNeknaj名義の下で協力的かつ先進的なプロジェクトに取り組んでいます。すべてのプロジェクトはオープンソースであり、貢献を歓迎しています。コミュニティからのフィードバック、バグ報告、プルリクエストを心から感謝します。  
-さらに、**「Neknaj」** という名前には個人的な意味が込められており、最初のプログラミングプロジェクトであるシンプルなじゃんけんゲームに由来し、文字通り「じゃんけん」を逆にしたものです。この遊び心と実験精神が、今も私の活動にインスピレーションを与えています。
+### 3. 論理回路と DSL
+- [Neknaj Circuit Game](https://github.com/neknaj/circuitgame)
+- cpu-circuitgame
+- circuitgame_tutorial
 
-## Contact & Links / お問い合わせ & リンク
+論理回路をテキストで書いて扱うための DSL や、その処理系、周辺ツールを作っています。
 
-**English:**  
-Feel free to reach out or explore my work through the following channels:
+### 4. タイピング・暗記・学習
+- [Typing Web](https://github.com/neknaj/typingweb)
+- GeoQuiz
+- [PeriodicTableMemorizer](https://github.com/neknaj/PeriodicTableMemorizer)
+- typingmp
+- typing
+- [chemquiz](https://github.com/bem130/chemquiz)
 
-**日本語:**  
-以下のチャンネルから、お気軽にご連絡いただくか、私の活動をご覧ください:
+タイピングを単なる速度練習ではなく、暗記や学習のためのインターフェースとして使うことに興味があります。
 
-- **Website:** [bem130.com](https://bem130.com) – Personal homepage and blog (mostly in Japanese)  
-  **日本語:** 個人のホームページおよびブログ（主に日本語）
-- **GitHub:** [bem130](https://github.com/bem130) (personal account) and [neknaj](https://github.com/neknaj) (organization for joint projects)  
-  **日本語:** 個人アカウントおよび共同プロジェクト用の組織アカウント
-- **𝕏:** [@bem130](https://twitter.com/bem130) – For updates, tech insights, and project news  
-  **日本語:** 最新情報、技術的考察、プロジェクトのニュースを発信中
-- **Instagram:** [bem_130](https://instagram.com/bem_130) – Project photos and behind-the-scenes content  
-  **日本語:** プロジェクトの写真や舞台裏の様子を掲載
-- **Email:** `bem130@ymail.ne.jp`
+### 5. 学習記録と可視化
+- [Common Test Score Tracker](https://github.com/bem130/commontestscoretracker)
+- [Study Time](https://bem130.com/studytime/README)
+- Study Time Dashboard
 
-**English:**  
-Thank you for visiting my profile! I'm always open to interesting discussions, collaboration opportunities, or any questions.
+勉強時間や模試データの記録・集計・可視化のためのツールも作っています。
 
-**日本語:**  
-私のプロフィールをご覧いただき、ありがとうございます！いつでもディスカッション、コラボレーション、またはご質問をお待ちしております。
+### 6. ブラウザで動く実験ツール
+- [Real-time Audio Analyzer](https://bem130.com/audioanalyzer/app.nml.php)
+- Convolution
+- springsimu
+- JSON Viewer
+- visualBinary
+
+ウェブブラウザでそのまま動く、小さめの実験ツールや可視化ツールをよく作ります。
+
+### 7. 3D・入出力・ハードウェア
+- Neknaj 3D Library
+- 3DTree / 3DTreeWeb
+- maze
+- virtualworld
+- nvg
+- [MorseBLEkeyboard](https://github.com/bem130/MorseBLEkeyboard)
+- Bem配列
+
+3D 描画、入力方式、キーボード配列、物理デバイスなど、ソフトウェアの外側にある入出力にも興味があります。
+
+### 8. 開発基盤・テンプレート・道具
+- [tsrust](https://github.com/neknaj/tsrust)
+- [kp](https://github.com/bem130/kp)
+
+開発を進めやすくするためのテンプレートや CLI ツールも作っています。
+
+## 制作方針
+
+- 作りたくなったものを作る
+- できる限り自分で実装する
+- 自由度の高いソフトを目指す
+- 作品は基本的にフリーライセンスで公開する
+
+## リンク
+
+- 個人サイト: https://bem130.com
+- Neknaj: https://neknaj.com
+- GitHub (bem130): https://github.com/bem130
+- GitHub (Neknaj): https://github.com/neknaj
