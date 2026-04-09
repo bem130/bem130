@@ -15,6 +15,7 @@ WebAssembly / WASI を主要ターゲットにしていて、Playground とチ�
 
 - Playground: https://neknaj.github.io/NEPLg2/
 - Tutorial: https://neknaj.github.io/NEPLg2/tutorials/getting_started/00_index.html
+- Document: https://neknaj.github.io/NEPLg2/doc/README.html
 
 ### [prefix-lang-compiler-book](https://github.com/bem130/prefix-lang-compiler-book)
 前置記法の小さな言語を題材に、TypeScript で言語を作りながら学ぶための本です。  
@@ -24,17 +25,13 @@ Compiler / Runtime / CLI / Web エディタまで、自分で組み立てなが�
 論理回路をテキストで設計・検証するための DSL と処理系です。  
 CLI と Web の両方で扱えるように作っていて、論理回路・記法設計・実装の交点にあるプロジェクトです。
 
-- Web: https://neknaj.com/circuitgame/README
-- Playground: https://neknaj.github.io/circuitgame/web/index.html
-- Tutorial: https://neknaj.github.io/circuitgame/tutorials/index.html
+- Playground: https://neknaj.github.io/circuitgame/
+- 実装例: https://github.com/neknaj/cpu-circuitgame
 
-### [NDDS / NML](https://github.com/neknaj/ndds)
-自作マークアップ言語 NML と、それをブラウザで表示するための仕組みです。  
-インデントベースの記法、JavaScript 関数呼び出しによる部品化、プレイグラウンド、VSCode まわりまで含めて作っています。  
-自分のサイトのかなりの部分もこれで書いています。
+### [Gloss](https://github.com/neknaj/gloss)
+Markdownを拡張し、ルビ付きのテキストを簡単に記述し、ネストの構造を明示して表示するようにしたものです。
 
-- Web: https://neknaj.com/ndds/README
-- Playground: https://neknaj.github.io/ndds/playground.html
+- Playground: https://neknaj.github.io/gloss
 
 ## 作っているものの系統
 
@@ -48,6 +45,7 @@ CLI と Web の両方で扱えるように作っていて、論理回路・記�
 自作言語を作ることと、その周辺の処理系・記法・実行環境を設計することを継続してやっています。
 
 ### 2. 文書記法とブラウザ上の表現
+- [Gloss](https://github.com/neknaj/gloss)
 - [NDDS](https://github.com/neknaj/ndds)
 - markup
 - custommd
@@ -63,10 +61,10 @@ CLI と Web の両方で扱えるように作っていて、論理回路・記�
 論理回路をテキストで書いて扱うための DSL や、その処理系、周辺ツールを作っています。
 
 ### 4. タイピング・暗記・学習
+- [Typing Multi-Platform](https://github.com/neknaj/typingmp)
 - [Typing Web](https://github.com/neknaj/typingweb)
 - GeoQuiz
 - [PeriodicTableMemorizer](https://github.com/neknaj/PeriodicTableMemorizer)
-- typingmp
 - typing
 - [chemquiz](https://github.com/bem130/chemquiz)
 
@@ -74,8 +72,7 @@ CLI と Web の両方で扱えるように作っていて、論理回路・記�
 
 ### 5. 学習記録と可視化
 - [Common Test Score Tracker](https://github.com/bem130/commontestscoretracker)
-- [Study Time](https://bem130.com/studytime/README)
-- Study Time Dashboard
+- [Study Time Dashboard](https://bem130.com/studytime/README)
 
 勉強時間や模試データの記録・集計・可視化のためのツールも作っています。
 
@@ -99,16 +96,11 @@ CLI と Web の両方で扱えるように作っていて、論理回路・記�
 
 3D 描画、入力方式、キーボード配列、物理デバイスなど、ソフトウェアの外側にある入出力にも興味があります。
 
-### 8. 開発基盤・テンプレート・道具
-- [tsrust](https://github.com/neknaj/tsrust)
-- [kp](https://github.com/bem130/kp)
-
-開発を進めやすくするためのテンプレートや CLI ツールも作っています。
-
 ## 制作方針
 
 - 作りたくなったものを作る
 - できる限り自分で実装する
+- マルチプラットフォーム対応する
 - 自由度の高いソフトを目指す
 - 作品は基本的にフリーライセンスで公開する
 
