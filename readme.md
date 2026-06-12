@@ -7,6 +7,15 @@
 個人寄りの制作物は [bem130](https://github.com/bem130) に、少し大きめの実験的なプロジェクト群は [Neknaj](https://github.com/neknaj) に置いています。  
 [Neknaj](https://neknaj.com) は、私とその仲間たちのプロジェクト群の名前です。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://bem130.github.io/bemstat/stat/images/top-repositories-by-source-lines-dark.svg">
+  <img src="https://bem130.github.io/bemstat/stat/images/top-repositories-by-source-lines.svg" alt="Top repositories by source lines" width="1080">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://bem130.github.io/bemstat/stat/images/top-languages-by-source-lines-dark.svg">
+  <img src="https://bem130.github.io/bemstat/stat/images/top-languages-by-source-lines.svg" alt="Top languages by source lines" width="1080">
+</picture>
+
 ## 主なプロジェクト
 
 ### [NEPLg2](https://github.com/neknaj/NEPLg2)
