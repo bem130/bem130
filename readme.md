@@ -15,6 +15,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://bem130.github.io/bemstat/stat/images/top-languages-by-source-lines-dark.svg">
   <img src="https://bem130.github.io/bemstat/stat/images/top-languages-by-source-lines.svg" alt="Top languages by source lines" width="1080">
 </picture>
+https://bem130.github.io/bemstat/ このページで以上に示したような詳細なBem130のrepoの統計が閲覧できます
 
 ## 主なプロジェクト
 
